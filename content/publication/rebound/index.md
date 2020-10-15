@@ -6,7 +6,7 @@ authors:
 
 date: "2018-12-01T00:00:00+02:00"
 doi: ""
-featured: false
+featured: true
 image: 
 
   focal_point: ""
