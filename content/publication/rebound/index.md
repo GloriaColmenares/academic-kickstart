@@ -28,11 +28,11 @@ abstract: We review the state-of-the-art and common practice of energy and clima
 # Summary. An optional shortened abstract.
 summary: ''
 
-# tags:
-# - Source Themes
+tags:
+- Source Themes
 featured: false
 
-# links:
+links:
  - name: "Overleaf"
     url: "https://www.overleaf.com/read/gxprxpjsfcjv"
 url_pdf: ''
