@@ -13,10 +13,6 @@
   url = "#publications"
   weight = 20
   
- [[main]]
-  name = "In progress"
-  url = "#publications"
-  weight = 30
   
 [[main]]
    name = "CV"
