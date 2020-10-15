@@ -23,7 +23,7 @@ publication_short:
 publication_types:
 slides: ""
 summary: ""
-#tags: []
+
 title: Strategies and Expansion of Intermittent Renewables: Disentangling Pass Through Costs in Electricity Markets
 url_code: ""
 url_dataset: ""
