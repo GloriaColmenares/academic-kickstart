@@ -15,7 +15,7 @@ links:
   url: https://www.overleaf.com/read/gxprxpjsfcjv
 math: true
 projects: []
-publication: ""
+publication: "*Environmental Research Letters, conditionally accepted"
 publication_short: 
 publication_types:
 - "2"
