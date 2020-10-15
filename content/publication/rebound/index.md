@@ -4,7 +4,6 @@ authors:
 - Gloria Colmenares
 - Andreas Löschel
 - Reinhard Madlener
-
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
