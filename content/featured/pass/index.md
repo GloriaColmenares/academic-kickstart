@@ -9,7 +9,7 @@ authors:
 
 date: "2020-09-01T00:00:00+02:00"
 doi: ""
-featured: 
+featured: false
 image: 
 
   focal_point: ""
