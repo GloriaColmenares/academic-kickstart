@@ -29,9 +29,9 @@ date_format = "Oct 2020"
   description = "€50K award"
 
 [[item]]
-  organization = "Australia Awards"
+  organization = "Australian Government"
   organization_url = "https://dfat.gov.au/geo/latin-america-caribbean/development-assistance/Pages/development-assistance-latin-america-the-caribbean.aspx"
-  title = "Blockchain Fundamentals"
+  title = "Australia Awards"
   url = ""
   certificate_url = /files/articulo caretas 26.01.17.pdf
   date_start = "2012-01-01"
