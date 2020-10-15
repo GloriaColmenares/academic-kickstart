@@ -28,8 +28,8 @@ abstract: We review the state-of-the-art and common practice of energy and clima
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 # links:
@@ -49,7 +49,7 @@ url_video: ''
 image:
   caption: 'Possible drivers (or causes) and effects of an energy efficiency improvement'
   focal_point: ""
-  preview_only: false
+  preview_only: 
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
