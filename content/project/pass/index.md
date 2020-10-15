@@ -9,7 +9,7 @@ authors:
 
 date: "2020-09-01T00:00:00+02:00"
 doi: ""
-featured: true
+featured: ""
 image: 
 
   focal_point: ""
@@ -18,7 +18,7 @@ links:
   url: https://www.overleaf.com/read/cskdfqfqtnbj
 math: true
 projects:
-- /internal-project/
+- /pass/
 publication: 
 publication_short: 
 publication_types:
