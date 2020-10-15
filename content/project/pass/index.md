@@ -9,8 +9,11 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
+
 slides: example-slides
-summary: An example of using the in-built project page.
+
+summary: This article investigates technology as a source of product differentiation in the German electricity day-ahead market. We estimate marginal cost curves per hour, price-cost markups, and pass through of input costs from an oligopoly model that includes demand uncertainty. Then, we compare these estimations to two conventional benchmark models. Our estimations also allow us to quantify in a detailed manner the pass through of carbon costs and the internalization of costs corresponding to the Emissions Trading Scheme (ETS) without using bid data. Using a dataset at plant level from years 2017 to 2018 we test the accuracy of our model and how far it might be from the perfect competition benchmark at different block of hours. Finally, we discuss consequences for the distributive effects of welfare.
+
 tags:
 - Deep Learning
 title: Internal Project
