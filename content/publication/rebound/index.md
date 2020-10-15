@@ -33,7 +33,7 @@ summary: ''
 featured: false
 
 links:
- - name: Overleaf
+- name: Overleaf
     url: https://www.overleaf.com/read/gxprxpjsfcjv
 url_pdf: ''
 url_code: ''
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Possible drivers (or causes) and effects of an energy efficiency improvement'
+  caption: ''
   focal_point: ""
   preview_only: 
 
