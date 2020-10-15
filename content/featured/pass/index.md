@@ -21,7 +21,6 @@ projects:
 publication: true
 publication_short: 
 publication_types:
-- "1"
 slides: ""
 summary: ""
 #tags: []
