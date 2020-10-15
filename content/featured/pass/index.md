@@ -12,7 +12,7 @@ doi: ""
 featured: false
 image: 
 
-  focal_point: ""
+focal_point: ""
 links:
 - name: Overleaf
   url: https://www.overleaf.com/read/cskdfqfqtnbj
