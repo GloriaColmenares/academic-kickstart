@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Student 
+      (on the job market)
 
 # Organizations/Affiliations
 organizations:
