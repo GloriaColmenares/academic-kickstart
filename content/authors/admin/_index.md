@@ -22,7 +22,7 @@ organizations:
 bio: I am a PhD student at the University of Münster studing electricity markets. My research interests include environmental and energy economics using computational techniques.
 
 interests:
-- Energy & Environmental economics
+- Energy & Environmental Economics
 - Game theory
 - Machine learning
 - Behavioral economics
