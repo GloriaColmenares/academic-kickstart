@@ -25,6 +25,7 @@ interests:
 - Energy & Environmental economics
 - Game theory
 - Machine learning
+- Behavioral economics
 
 education:
   courses:
