@@ -31,8 +31,8 @@ featured: false
 
 links:
 - name: "Overleaf"
-url: 'https://www.overleaf.com/read/gxprxpjsfcjv'
-url_pdf: ''
+url: ''
+url_pdf: 'https://www.overleaf.com/read/gxprxpjsfcjv'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
