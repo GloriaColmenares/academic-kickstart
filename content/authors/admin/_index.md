@@ -16,7 +16,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: The University of Münster
-  url: ""
+  url: "https://www.wiwi.uni-muenster.de/ceres/en/external-doctoral-students"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student at the University of Münster studing electricity markets. My research interests include environmental and energy economics using computational techniques.
