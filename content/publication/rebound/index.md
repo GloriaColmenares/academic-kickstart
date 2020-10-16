@@ -1,5 +1,5 @@
 ---
-title: "Strategies and Expansion of Intermittent Renewables: Disentangling Pass Through Costs in Electricity Markets"
+title: "The Rebound Effect representation in Climate and Energy models"
 authors:
 - Gloria Colmenares
 - Andreas Löschel
