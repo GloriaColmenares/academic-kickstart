@@ -16,6 +16,7 @@ doi: ""
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
+[design]
 # Toggle between the various page layout types.
 #   1 = List
 #   2 = Compact
