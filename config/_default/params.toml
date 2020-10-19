@@ -100,11 +100,11 @@ address = {street = "Am Stadtgraben 9", city = "Münster", region = "NRW", postc
 coordinates = {latitude = "51.9612095", longitude = "7.6170129"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter Building and on the same floor enter the door to Office 16"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Previous appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
@@ -114,8 +114,8 @@ appointment_url = "https://calendly.com"
 contact_links = [
   #{icon = [], icon_pack = [], name = [], link = []},
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:gloria.colmenares?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
