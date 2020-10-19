@@ -23,9 +23,9 @@ date_format = "Jan 2006"
   company_url = "https://www.journals.elsevier.com/energy-research-and-social-science"
   location = ""
   date_start = "2020-09-01"
-  date_end = "2020-09-30"
+  date_end = ""
   description = """
-  Responsibilities include:""
+  #Responsibilities include:""
   
   """
 
