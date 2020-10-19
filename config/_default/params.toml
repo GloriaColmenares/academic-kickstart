@@ -100,7 +100,7 @@ address = {street = "Am Stadtgraben 9", city = "Münster", region = "NRW", postc
 coordinates = {latitude = "51.9612095", longitude = "7.6170129"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building and on the same floor enter the door to Office 16"
+directions = "Enter Building and on the same floor enter the door towards Office 16"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
