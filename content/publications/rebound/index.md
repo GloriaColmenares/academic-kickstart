@@ -67,4 +67,4 @@ slides: ""
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
