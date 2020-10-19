@@ -1,35 +1,40 @@
-+++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
+---
+# An instance of the Featured widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: featured
 
-widget = featured # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+# Activate this widget? true/false
+active: true
 
-title = Featured Publications
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = publications
-  
+# Order that this section appears on the page.
+weight: 80
+
+title: Featured Publications
+subtitle: ""
+
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = desc
-
-  # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
-  
-[design]
-  # Toggle between the various page layout types.
+  count: 0
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+  # Show a "See all" link?
+  link_to_archive: false
+design:
+  # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
-  
-+++
+  view: 3
+---
