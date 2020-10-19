@@ -44,7 +44,7 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 [[feature]]
-  icon = "Stata"
+  icon = "stata"
   icon_pack = "custom"
   name = "Stata"
   description = "100%"
