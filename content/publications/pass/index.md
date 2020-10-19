@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We investigate technology as source of product differentiation on strategic behavior and wealth distribution in the German electricity market. We compare the performance of our model to a benchmark, using elasticity-adjusted markups, without bid data. We represent uncertainty on the demand side as intermittency of renewables or flexible demand response. We show that both model estimates converge at off-peak hours being robust to ramping cost and renewable forecast assumptions. Producers pass on fuel and CO$_2$ costs differently with implications for reinforced European Emissions Trading regulation. Consumers are better off under a carbon price floor of \euro{25}/tCO$_2$, but producers are worse off, particularly at morning peak.
+abstract: We investigate technology as source of product differentiation on strategic behavior and wealth distribution in the German electricity market. We compare the performance of our model to a benchmark, using elasticity-adjusted markups, without bid data. We represent uncertainty on the demand side as intermittency of renewables or flexible demand response. We show that both model estimates converge at off-peak hours being robust to ramping cost and renewable forecast assumptions. Producers pass on fuel and CO2 costs differently with implications for reinforced European Emissions Trading regulation. Consumers are better off under a carbon price floor of euro25/tCO2, but producers are worse off, particularly at morning peak.
 
 
 # Summary. An optional shortened abstract.
