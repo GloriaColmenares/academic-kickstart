@@ -93,11 +93,11 @@ phone = "+49 176 410 83388"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Am Stadtgraben 9", city = "The University of Münster", region = "NRW", postcode = "48145", country = "Germany", country_code = "DE"}
+address = {street = "Am Stadtgraben 9", city = "Münster", region = "NRW", postcode = "48143", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "51.9612095", longitude = "7.6170129"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
