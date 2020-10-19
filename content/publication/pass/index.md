@@ -42,6 +42,13 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "90%"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
