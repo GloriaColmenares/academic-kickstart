@@ -32,7 +32,8 @@ featured: true
 links:
 - name: 'Overleaf'
   url: https://www.overleaf.com/read/gxprxpjsfcjv
-url_pdf: ''
+- name: 'SSRN'
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3314180 '
 url_code: ''
 url_dataset: ''
 url_poster: ''
