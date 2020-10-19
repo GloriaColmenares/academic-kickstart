@@ -30,7 +30,7 @@ tags:
 featured: false
 
 links:
-- name: "Overleaf"
+- name: 'Overleaf'
 url: 'https://www.overleaf.com/read/gxprxpjsfcjv'
 url_pdf: ''
 url_code: ''
