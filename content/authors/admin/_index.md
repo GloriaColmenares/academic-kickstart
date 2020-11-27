@@ -33,7 +33,7 @@ education:
     institution: The University of Queensland
     year: 2013
   - course: BSc Civil Engineering
-    institution: Ponthific Catholic University of Peru
+    institution: Pontifical Catholic University of Peru
     year: 2004
 
 # Social/Academic Networking
