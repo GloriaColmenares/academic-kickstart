@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the University of Münster studying the efficiency of energy markets at the intersection with environmental and public economics.
+I am a PhD student at the University of Münster studying the efficiency of energy markets at the intersection with environmental and public economics using computational techniques.
