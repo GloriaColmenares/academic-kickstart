@@ -21,7 +21,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student at the University of Münster studing electricity markets. My research interests include environmental and energy economics using computational techniques.
 
-Research Interests:
+Interests:
 - Energy & Environmental Economics
 - Game theory, Empirical IO
 - Public Economics
