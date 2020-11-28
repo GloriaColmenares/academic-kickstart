@@ -1,5 +1,5 @@
 ---
-title: JMP: "Strategies and Expansion of Intermittent Renewables: Disentangling Pass Through Costs in Electricity Markets"
+title: "JMP: Strategies and Expansion of Intermittent Renewables: Disentangling Pass Through Costs in Electricity Markets"
 authors:
 - Gloria Colmenares
 - Dominik Schober
