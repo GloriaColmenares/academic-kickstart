@@ -19,7 +19,7 @@ organizations:
   url: "https://www.wiwi.uni-muenster.de/ceres/en/external-doctoral-students"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at the University of Münster studing electricity markets. My research interests include environmental and energy economics using computational techniques.
+bio: I am a PhD student at the University of Münster examining the efficiency of energy markets at the intersection with environmental and public economics using computational techniques.
 
 Interests:
 - Energy & Environmental Economics
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the University of Münster studying the efficiency of energy markets at the intersection with environmental and public economics using computational techniques.
+I am a PhD student at the University of Münster examining the efficiency of energy markets at the intersection with environmental and public economics using computational techniques.
