@@ -93,14 +93,14 @@ phone = "+49 176 410 83388"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Am Stadtgraben 9", city = "Münster", region = "NRW", postcode = "48143", country = "Germany", country_code = "DE"}
+address = {street = "Stadtgraben 9", city = "Münster", region = "NRW", postcode = "48143", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "51.961292", longitude = "7.618268"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building and on the same floor enter the door towards Office 16"
+directions = "Enter the building and on the same floor enter the door towards office 16"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
