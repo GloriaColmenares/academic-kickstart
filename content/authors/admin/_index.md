@@ -21,13 +21,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student at the University of Münster studing electricity markets. My research interests include environmental and energy economics using computational techniques.
 
-interests:
+Research Interests:
 - Energy & Environmental Economics
-- Game theory
+- Game theory, Empirical IO
+- Public Economics
+- Natural Resource Economics
 - Machine learning
 - Behavioral economics
 
-education:
+Education:
   courses:
   - course: MSc Environmental management with major in natural resource economics
     institution: The University of Queensland
@@ -43,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gloria.colmenares.m@gmail.com'
+  link: 'mailto:g_colm01@uni-muenster.de'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -72,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the University of Münster studing electricity markets. My research interests include environmental and energy economics using computational techniques.
+I am a PhD student at the University of Münster studying the efficiency of energy markets at the intersection with environmental and public economics.
