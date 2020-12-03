@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*UQ eSpace*(1)"
+publication: "*UQ eSpace*"
 publication_short: "UQ"
 
 abstract: ""
