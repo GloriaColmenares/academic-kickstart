@@ -25,8 +25,19 @@ date_format = "Oct 2020"
   url = ""
   certificate_url = "/files/kaad acceptance.pdf"
   date_start = "2017-07-01"
-  date_end = ""
+  date_end = "2021-03-31"
   description = "€50K award"
+  
+[[item]]
+  organization = "Stanford"
+  organization_url = "https://pesd.fsi.stanford.edu/research"
+  title = "Visiting Scholar at PESD"
+  url = "https://pesd.fsi.stanford.edu/people/directory?cat=All"
+  certificate_url = "/files/kaad acceptance.pdf"
+  date_start = "2019-08-15"
+  date_end = "2019-10-25"
+  description = "€5.5K scholarship"
+
 
 [[item]]
   organization = "Australian Government"
