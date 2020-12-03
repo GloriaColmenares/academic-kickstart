@@ -36,7 +36,7 @@ date_format = ""
   certificate_url = ""
   date_start = "2019-08-15"
   date_end = "2019-10-25"
-  description = "€5.5K scholarship"
+  description = "€5.5K Scholarship"
 
 
 [[item]]
