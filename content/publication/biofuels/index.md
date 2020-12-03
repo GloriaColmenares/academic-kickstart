@@ -1,5 +1,5 @@
 ---
-title: "Biofuels Potential of Peru"
+title: "Biofuels Potential of Peru (MSc Thesis)"
 authors:
 - Gloria Colmenares
 date: "2013-07-18T00:00:00Z"
