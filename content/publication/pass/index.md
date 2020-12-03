@@ -33,7 +33,7 @@ featured: false
 links:
 - name: Overleaf
   url: https://www.overleaf.com/read/cskdfqfqtnbj
-url_pdf: 'files/JMP.pdf'
+url_pdf: '/files/JMP.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
