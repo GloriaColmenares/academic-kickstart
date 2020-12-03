@@ -31,7 +31,7 @@ date_format = ""
 [[item]]
   organization = "Stanford"
   organization_url = "https://pesd.fsi.stanford.edu/research"
-  title = "Visiting Scholar at PESD"
+  title = "Visiting Scholar at Stanford PESD"
   url = "https://pesd.fsi.stanford.edu/people/directory?cat=All"
   certificate_url = ""
   date_start = "2019-08-15"
