@@ -24,7 +24,7 @@ date_format = ""
   title = "Katholischer Akademischer Ausländer-Dienst"
   url = ""
   certificate_url = "/files/kaad acceptance.pdf"
-  date_start = "2020-01-07"
+  date_start = "2020-07-01"
   date_end = "2021-03-01"
   description = "€50K award"
   
