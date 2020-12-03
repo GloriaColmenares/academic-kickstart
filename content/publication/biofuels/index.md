@@ -1,26 +1,24 @@
 ---
-title: "The Rebound Effect representation in Climate and Energy models"
+title: "Biofuels Potential of Peru"
 authors:
 - Gloria Colmenares
-- Andreas Löschel
-- Reinhard Madlener
-date: "2020-09-01T00:00:00Z"
+date: "2013-07-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2013-07-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Environmental Research Letters*(1)"
-publication_short: "ERL"
+publication: "*UQ eSpace*(1)"
+publication_short: "UQ"
 
-abstract: "We review the state-of-the-art and common practice of energy and climate modeling vis-a-vis the rebound literature. In particular, we study how energy system and economy-wide models include and quantify rebound effects - the gap between actual and expected saving or the behavioral adjustment in response to an energy efficiency improvement, in terms of energy or greenhouse gas emissions. First, we explain the interaction between drivers of energy efficiency improvements energy efficiency policies, and the rebound effect to provide a framework for a general theoretical revision from micro- to macro-economic levels. Using this classification, we analyze rebound effect representations in empirical models by four dimensions: actors (industry or the production side, and private households or the consumption side), the aggregation level (from micro- to macro-economic levels), income level (developed or developing countries), and time (short- and long-run). Furthermore, we review rebound effect studies whose models focus on three drivers of energy efficiency improvements: market-based policies, non-market-based policies, and a costless energy efficiency improvement that holds other attributes constant (zero-cost breakthrough). We find that a clear representation of one or simultaneous drivers of energy efficiency improvements is crucial to target the goals of energy savings, greenhouse gas mitigation, and welfare gains. Under this broader view, the rebound effect is one additional phenomenon to take into consideration. This perspective provokes and provides additional policy implications. Reporting rebound effects as a stand-alone percentage is not sufficiently informative for policy considerations and the distinction of the aggregation level is important to asses the scalability of energy efficiency policies. Finally, we give some ideas and motivations for future research."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -30,8 +28,8 @@ tags:
 featured: false
 
 links:
-- name: 'Overleaf'
-  url: https://www.overleaf.com/read/gxprxpjsfcjv
+- name: 'UQ eSpace'
+  url: https://espace.library.uq.edu.au/data/UQ_322286/Gloria_Colmenares_Final_thesis.pdf?dsi_version=e4ab1c26566c2551551817d54e67585a&Expires=1606998619&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=Nx30pB7ct8JGKNzVr4Ej9unQsdMtQt2Vw99WqEDgjpq1RFXOzJkkkFWa0XEkiw4k0k98LT4gMn3ZF8Tlb6NkoRaf-kvT7ekwwctrA7PXg6-vIx7Vp16r4AW70FWbmEW8CYBpuirIqC7tRGubeHTxETn5eZh1PCGZhZna8mMrTGD~LmJXGSNUwXzcH7pRMCKtKgN-QIkK56t49Ia6mg-s~yz02Cf5lH4cfpIIdgjZc5niB4eTPU1tehjujgxx5HA2FWqCOEFIfFcNcwUOU4tdA3-LnOUrh9bNZgoZ6f~6nEUO2JpDVSTC-n-p9d3GYamSopVBJtw8KQICek~Xe~f2DQ__
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -44,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Possible drivers (or causes) and effects of an energy efficiency improvement'
+  caption: ''
   focal_point: ""
   preview_only: false
 
