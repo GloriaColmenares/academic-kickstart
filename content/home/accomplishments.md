@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Oct 2020"
+date_format = ""
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
