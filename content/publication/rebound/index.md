@@ -30,8 +30,8 @@ tags:
 featured: true
 
 links:
-- name: 'Overleaf'
-  url: https://www.overleaf.com/read/gxprxpjsfcjv
+#- name: 'Overleaf'
+#url: https://www.overleaf.com/read/gxprxpjsfcjv
 - name: 'SSRN'
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3314180
 url_pdf: ''
