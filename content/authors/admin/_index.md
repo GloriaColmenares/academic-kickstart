@@ -15,7 +15,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Münster
+- name: University of Münster
   url: "https://www.wiwi.uni-muenster.de/ceres/en/external-doctoral-students"
 
 # Short bio (displayed in user profile at end of posts)
