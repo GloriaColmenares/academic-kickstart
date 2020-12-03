@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Pilot Biofuels plant. Salazar, 2012.'
+  caption: 'Biofuels pilot plant (Salazar, 2012).'
   focal_point: ""
   preview_only: false
 
