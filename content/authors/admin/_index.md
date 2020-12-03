@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: PhD Student 
-      (on the job market)
+      (on the Job market)
 
 # Organizations/Affiliations
 organizations:
