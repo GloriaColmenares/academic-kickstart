@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "*UQ eSpace*"
 publication_short: "UQ"
 
-abstract: ""
+abstract: "This thesis investigates the potential of biofuels in Peru for 2020 using 8 Peruvian natural resources available in 2012, in the search for low carbon and clean sources of transport energy. Long-term polices for the transport sector require detailed planning and evaluation of current and possible future scenarios, in order to design and implement effective policy tools. This research examines the effect of the introduction of emerging technologies in three fossil fuel scenarios (low, moderate and high), combined with three proposed biofuel policies, in the search for supply-demand optimisation for the transport sector in 2020. The results show that biofuel policies would not be efficient or sustainable with current technologies, and further promotion of investments in pilots for second and third generation biofuels would be required to find unrestrained substitutes for diesel and gasoline fuels. These pilots could provide an opportunity platform and beneficial strategy for business and R&D cooperation between developing and developed countries, for all parties. Finally, it is proposed that a combination of electric hybrid cars with 2nd and 3rd generation biofuels would be an optimal scenario for long-term transport energy management in 2020-2035."
 
 # Summary. An optional shortened abstract.
 summary: ""
