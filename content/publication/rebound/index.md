@@ -1,5 +1,5 @@
 ---
-title: "The Rebound Effect representation in Climate and Energy models"
+title: "The Rebound Effect Representation in Climate and Energy Models"
 authors:
 - Gloria Colmenares
 - Andreas Löschel
