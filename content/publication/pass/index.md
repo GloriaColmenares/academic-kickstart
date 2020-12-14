@@ -24,7 +24,7 @@ abstract: We investigate technology as source of product differentiation on stra
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: If the first try doesn't work, click twice to see the video
 
 tags:
 #- Source Themes
