@@ -1,11 +1,11 @@
 ---
-title: "Strategies and Expansion of Intermittent Renewables: Disentangling Pass Through Costs in Electricity Markets (JMP -If needed click twice to see video)"
+title: "Strategies and Expansion of Intermittent Renewables: Disentangling Pass Through Costs in Electricity Markets"
 authors:
 - Gloria Colmenares
 - Dominik Schober
 - Andreas Löschel
 date: "2020-09-15T00:00:00Z"
-doi: ""
+doi: "(JMP -If needed click twice to see the video)"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
