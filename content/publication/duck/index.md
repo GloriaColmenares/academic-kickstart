@@ -1,5 +1,5 @@
 ---
-title: "Non-price and Price Determinants of Duck-like Demand: Pass-Through Costs and Welfare implications"
+title: "Non-price and Price Determinants of Duck-like Demand: Pass-Through Costs and Welfare Implications"
 authors:
 - Gloria Colmenares
 
