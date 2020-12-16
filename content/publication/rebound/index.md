@@ -32,7 +32,7 @@ featured: true
 links:
 #- name: 'Overleaf'
 #url: https://www.overleaf.com/read/gxprxpjsfcjv
-- name: 'doi'
+- name: 'Doi'
   url: https://doi.org/10.1088/1748-9326/abc214
 url_pdf: ''
 url_code: ''
