@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: 'UQ eSpace'
-  url: https://espace.library.uq.edu.au/data/UQ_322286/Gloria_Colmenares_Final_thesis.pdf?dsi_version=e4ab1c26566c2551551817d54e67585a&Expires=1606998619&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=Nx30pB7ct8JGKNzVr4Ej9unQsdMtQt2Vw99WqEDgjpq1RFXOzJkkkFWa0XEkiw4k0k98LT4gMn3ZF8Tlb6NkoRaf-kvT7ekwwctrA7PXg6-vIx7Vp16r4AW70FWbmEW8CYBpuirIqC7tRGubeHTxETn5eZh1PCGZhZna8mMrTGD~LmJXGSNUwXzcH7pRMCKtKgN-QIkK56t49Ia6mg-s~yz02Cf5lH4cfpIIdgjZc5niB4eTPU1tehjujgxx5HA2FWqCOEFIfFcNcwUOU4tdA3-LnOUrh9bNZgoZ6f~6nEUO2JpDVSTC-n-p9d3GYamSopVBJtw8KQICek~Xe~f2DQ__
+  url: https://espace.library.uq.edu.au/view/UQ:322286
 url_pdf: ''
 url_code: ''
 url_dataset: ''
