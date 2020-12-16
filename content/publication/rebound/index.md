@@ -32,8 +32,8 @@ featured: true
 links:
 #- name: 'Overleaf'
 #url: https://www.overleaf.com/read/gxprxpjsfcjv
-- name: 'SSRN'
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3314180
+- name: 'doi'
+  url: https://doi.org/10.1088/1748-9326/abc214
 url_pdf: ''
 url_code: ''
 url_dataset: ''
