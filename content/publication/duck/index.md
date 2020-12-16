@@ -1,5 +1,5 @@
 ---
-title: "Duck-like Evidence of Negative and Positive Demand Response: Pricing and Welfare Implications"
+title: "Non-price and Price Determinants of Duck-like Demand: Pass-Through Costs and Welfare implications"
 authors:
 - Gloria Colmenares
 
