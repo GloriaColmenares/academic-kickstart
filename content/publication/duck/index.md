@@ -1,5 +1,5 @@
 ---
-title: "Non-price and Price Determinants of Duck-like Demand: Pass-Through Costs and Welfare Implications"
+title: "Evidence of Flexibility and its Economic Implications on the Day-ahead Electricity Market"
 authors:
 - Gloria Colmenares
 
