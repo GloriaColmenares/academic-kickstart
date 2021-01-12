@@ -3,7 +3,7 @@ title: "Evidence of Flexibility and its Economic Implications on the Day-ahead E
 authors:
 - Gloria Colmenares
 
-date: "2020-12-01T00:00:00Z"
+date: "2021-01-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
