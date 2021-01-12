@@ -19,7 +19,7 @@ publication_types: ["1"]
 #publication: "*Environmental Research Letters*(1)"
 #publication_short: "ERL"
 
-abstract: ""
+abstract: "I use the first wave of COVID-19 as a natural experiment to document evidence of flexibility on the German day-ahead electricity market. I parameterize a model that represents uncertainty on the demand side as intermittency of renewables. I then compare pre- to post-COVID-19 data to investigate lower-bound economic implications. Post-COVID-19 and under 44% renewable shares, electricity prices were most sensitive to fuel costs, and almost completely passed through, while remaining rigid to CO2 costs. A decrease in demand consumption had a detrimental welfare effect on both, consumers and producers. An increase in demand consumption was slightly beneficial in the afternoon peak, mainly for consumers. Although the distributional gap was reduced, both actors, were worst off post-COVID-19. CO2 emissions were lower by 31% on average, but emissions from lignite remained almost constant around 56% of total emissions from fossil fuels. If this consumption pattern persists to some extent, under higher renewable shares, and more extreme weather conditions, more appropriate market rules would be necessary to achieve allocative efficiency."
 
 # Summary. An optional shortened abstract.
 summary: ""
