@@ -31,7 +31,7 @@ featured: false
 links:
 #- name: 'Overleaf'
   #url: https://www.overleaf.com/read/gxprxpjsfcjv
-url_pdf: '/files/Duck_v2.pdf'
+url_pdf: '/files/Duck_v3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
