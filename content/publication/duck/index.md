@@ -36,7 +36,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'Duck_Strommarkt'
+url_slides: '/files/Duck_Strommarkt.pdf'
 url_source: ''
 url_video: ''
 
