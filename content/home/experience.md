@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Referee"
-  company = "*Energy Research & Social Science, Elsevier*", "*Environmental Research Letters*"
-  company_url = "https://www.journals.elsevier.com/energy-research-and-social-science", "https://iopscience.iop.org/journal/1748-9326"
+  company = "*Energy Research & Social Science, Elsevier*,*Environmental Research Letters*"
+  company_url = ""
   location = ""
   date_start = "2020-09-01"
   date_end = ""
