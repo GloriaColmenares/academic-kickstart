@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Referee"
-  company = "*Energy Research & Social Science*, *Environmental Research Letters*"
+  company = "*Energy Research & Social Science*, *Environmental Research Letters*, *Environmental Research Communications*"
   company_url = ""
   location = ""
   date_start = "2020-09-01"
