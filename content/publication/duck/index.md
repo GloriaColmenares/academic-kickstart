@@ -36,7 +36,7 @@ url_code: 'https://github.com/GloriaColmenares/Flexibility-and-welfare'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/files/EAERE_20210623.pdf '
+url_slides: '/files/EAERE_20210623.pdf'
 url_source: ''
 url_video: ''
 
