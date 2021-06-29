@@ -31,7 +31,7 @@ featured: false
 links:
 #- name: 'Overleaf'
   #url: https://www.overleaf.com/read/gxprxpjsfcjv
-url_pdf: '/files/Duck_v3.pdf'
+url_pdf: '/files/Duck_v5.pdf'
 url_code: 'https://github.com/GloriaColmenares/Flexibility-and-welfare'
 url_dataset: ''
 url_poster: ''
