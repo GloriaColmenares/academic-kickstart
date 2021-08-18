@@ -1,5 +1,5 @@
 ---
-title: "Strategies and Expansion of Intermittent Renewables: Disentangling Pass-Through Costs in Electricity Markets"
+title: "Expansion of Intermittent Renewables: Strategies, pass-through costs, and welfare distribution"
 authors:
 - Gloria Colmenares
 - Dominik Schober
@@ -41,7 +41,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: '/media/JMVideo3.mp4'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
