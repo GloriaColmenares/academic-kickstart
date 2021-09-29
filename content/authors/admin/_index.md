@@ -19,7 +19,7 @@ organizations:
   url: "https://www.wiwi.uni-muenster.de/ceres/en/external-doctoral-students"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I graduated as PhD from the University of Münster on May 2021. I examine the efficiency of energy markets at the intersection with environmental and public economics using computational techniques.
+bio: I'm a PhD graduate from the University of Münster. I examine the efficiency of energy markets at the intersection with environmental and public economics using computational techniques.
 
 Interests:
 - Energy & Environmental Economics
@@ -45,7 +45,7 @@ Education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:g_colm01@uni-muenster.de'
+  link: 'mailto:gloria.colmenares@pm.me'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the University of Münster examining the efficiency of energy markets at the intersection with environmental and public economics using computational techniques.
+I'm a PhD graduate from the University of Münster. I examine the efficiency of energy markets at the intersection with environmental and public economics using computational techniques.
