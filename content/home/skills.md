@@ -47,6 +47,6 @@ subtitle = ""
   icon = "stata"
   icon_pack = "custom"
   name = "Stata"
-  description = "100%"
+  description = ""
 
 +++
