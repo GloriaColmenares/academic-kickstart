@@ -18,19 +18,19 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  description = ""
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "85%"
+  description = ""
   
 #[[feature]]
 #icon = "chart-line"
 #icon_pack = "fas"
 #name = "Statistics"
-#description = "100%"  
+#description = ""  
  
 
 # Uncomment to use emoji icons.
