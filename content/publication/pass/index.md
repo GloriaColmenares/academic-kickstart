@@ -33,7 +33,7 @@ featured: false
 links:
 #- name: Overleaf
 #url: https://www.overleaf.com/read/cskdfqfqtnbj
-url_pdf: '/files/20200110_pt_v16.pdf'
+url_pdf: '/files/JMP_GMCM.pdf'
 url_code: 'https://github.com/GloriaColmenares/Expansion-of-renewables/tree/main'
 url_dataset: ''
 url_poster: ''
