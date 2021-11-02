@@ -1,5 +1,5 @@
 ---
-title: "Expansion of Intermittent Renewables: Strategies, pass-through costs, and welfare distribution *(Job Market Paper)*" 
+title: "Expansion of Intermittent Renewables: Strategies, pass-through costs, and welfare distribution *Job Market Paper*" 
 authors:
 - Gloria Colmenares 
 - Dominik Schober
