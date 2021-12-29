@@ -37,7 +37,7 @@ links:
 url_pdf: '/files/JMP_GMCM.pdf'
 url_code: 'https://github.com/GloriaColmenares/Expansion-of-renewables/tree/main'
 url_dataset: ''
-url_poster: ''
+url_poster: '/files/Poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
